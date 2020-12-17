@@ -1,0 +1,175 @@
+body{margin: 0px;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+	 }
+.full-bg{
+	 background:url('bg-img.jpg') ;
+ background-repeat:no-reapet;
+ background-size:cover;
+ background-attachment:fixed;
+}
+.fox{
+	color: #201294;
+	text-shadow:2px 2px 2px #1bb5ce;
+}
+h1{ font-size: 50px; }
+h2{ 
+font-size: 30px;
+color:#4f1356;
+}
+h3{
+	color:orange;
+}
+p{color: black; font-weight: 500; 
+text-align:justify;
+
+}
+
+.murgi img{width: 91%;
+    margin-top: 60px;
+          }
+.murgi{width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+  }
+
+
+
+.top{ height: 500px;
+}
+.first-img{
+	padding-top:50px;
+	margin-left:30px;
+}               
+.ashik{
+	color:orange;
+	text-shadow:1px 1px 1px #656467;
+} 
+.main-h{
+	color:#0980fb;
+	text-shadow:1px 1px 1px #000;
+	animation-name:jahangir;
+	animation-duration:5s;
+	animation-iteration-count:infinite;
+	animation-direction:alternate;
+}	
+
+	
+	
+@keyframes jahangir{
+	0%{color:orange}
+	25%{color:#0a95f7}
+	50%{color:olive}
+	75%{color:yellow}
+	100%{color:pink}
+}
+		
+.website{
+	margin-left:80px;
+}                
+
+section{height: 500px;
+        padding-bottom: 50px; }
+
+.button{text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;}
+
+.button:hover{
+	background:#0c94f5;
+	color:#000;
+}
+.majkhan{
+
+	height:520px;
+	padding-top:10px;
+}
+.middle{  
+margin-top:50px;
+}
+
+.box{ box-shadow: 10px 10px 40px gray; 
+border-radius: 5px;
+height: 60%;
+background-color: white;}
+
+     
+
+#full{ border-left: 7px solid;
+        border-image: linear-gradient(180deg, blue, cyan);
+        border-image-slice: 1;}
+
+        #baby{ border-left: 7px solid;
+            border-image: linear-gradient(180deg,blue, cyan);
+            border-image-slice: 1;}  
+            
+            footer{text-align: center;
+            font-size: 12px;}
+.middle-text{
+	padding-top:30px;
+}	
+.sesh{
+	padding-top:20px;
+}		
+.box-d{
+	margin-top:-80px;
+}			
+.serial{
+	margin-left:30px;
+	float:left;
+	margin-top:-15px;
+	
+}			
+.serial2{
+	float:right;
+	margin-right:115px;
+	margin-top:-15px;
+}			
+#bio{
+	height:300px;
+	padding-top:1px;
+}			
+.bio1{
+	color:green;
+	font-weight:bold;
+	font-style:italic;
+}			
+.fox1{
+	color:orange;
+	text-shadow:1px 1px 1px #656467;
+}			
+.last{
+	margin-left:30px;
+}			
+.last-div{
+	width:400px;
+	height:80px;
+	background:#ff2580;
+	margin-bottom:60px;
+	margin-left:440px;
+	padding:10px;
+	font-weight:bold;
+	border-radius:10px;
+}			
+.last-div p{
+	text-align:center;
+}			
+.last-div h3{
+	color:black;
+	margin-left:85px;
+	margin-top:-10px;
+	font-style:italic;
+	
+
+	font-weight:bold;
+}			
+.box-wrap{
+	margin-bottom:-50px;
+}			
+			
+			
+			
